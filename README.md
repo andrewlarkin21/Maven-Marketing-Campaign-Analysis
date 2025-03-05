@@ -18,8 +18,7 @@ This project uses a marketing campaign data of 2,240 customers of Maven Marketin
 
 ## Data Cleaning
 
-## Data Visualization
-
+## Analysis
 ### Are there any null values or outliers? How will you handle them?
 
 ### What factors are significantly related to the number of web purchases?
@@ -31,6 +30,8 @@ This project uses a marketing campaign data of 2,240 customers of Maven Marketin
 ### Which products are performing best?
 
 ### Which channels are underperforming?
+
+## Data Visualization
 
 ## Key Insights
 
